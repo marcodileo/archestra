@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">          
         <title>This is the Radiohead website.</title>
-        <link rel="stylesheet" href="stilo.css">
+        <link rel="stylesheet" href="stile.css">
         <style>        
         body { margin-top:6vw; }                
         p { font-size:8vh; line-height:7vh; }
@@ -12,9 +12,6 @@
         </style>
     </head>
     <body class="r">
-        <p>MORE PRIVATE SECURITY</p>
-        <p>LESS POLITICAL PARTICIPATION</p>
-        <p>WORSE POLITICIANS</p>
-        <p class="Mf"><a href="rh0005.html">MORE FEAR</a></p>
+        <p>ARCHESTRA</p>
     </body>
 </html>
