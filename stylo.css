@@ -2,6 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
   font-size:5.0vw;
 }
+a:visited {
+    color: black;
+}
 .w3-margin{margin:1vh}
 .w3-xlarge{font-size:24px}
 .w3-padding-32{padding-top:32px;padding-bottom:32px}
