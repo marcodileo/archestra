@@ -5,6 +5,6 @@ body {
 .arch-margin{margin:auto}
 .w3-xlarge{font-size:24px}
 .w3-padding-32{padding-top:32px;padding-bottom:32px}
-.w3-padding-64{padding-top:64px;padding-bottom:64px}
+.w3-padding-auto{padding:5vw}
 .w3-center{text-align:center}
 .w3-margin{margin:16px}
