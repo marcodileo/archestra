@@ -1,6 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
-  font-size:5.0vw;
+  font-size:15vmin;
+  vertical-align: middle;
 }
 a:link {
     color: black;
