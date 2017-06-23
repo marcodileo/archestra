@@ -10,6 +10,9 @@ a:visited {
     color: black;
   text-decoration: none;
 }
+.fa:hover {
+    opacity: 0.7;}
+
 .w3-margin{margin:1vh}
 .w3-xlarge{font-size:24px}
 .w3-padding-32{padding-top:32px;padding-bottom:32px}
