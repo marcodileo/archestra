@@ -4,9 +4,11 @@ body {
 }
 a:link {
     color: black;
+  text-decoration: none;
 }
 a:visited {
     color: black;
+  text-decoration: none;
 }
 .w3-margin{margin:1vh}
 .w3-xlarge{font-size:24px}
