@@ -2,6 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
   font-size:5.0vw;
 }
+a:link {
+    color: black;
+}
 a:visited {
     color: black;
 }
