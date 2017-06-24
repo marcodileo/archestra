@@ -1,11 +1,11 @@
 body {
   font-family: 'Nunito', sans-serif;
-  font-size:7vmax;
   background-color: #f2f2f2;
 }
 .cent
 {
   position: relative;
+  font-size:7vmax;
   text-align:center;
   margin:5vmax;
 }
