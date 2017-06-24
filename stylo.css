@@ -12,6 +12,19 @@ h1 {
   margin:16px;
 }
 
+.container
+{  
+    height: 100%;
+    display: table-cell;   
+    vertical-align: middle;    
+}
+.cent
+{
+  text-align:center;
+  padding:5vw;
+  margin:16px;      
+}
+
 a:link {
     color: black;
   text-decoration: none;
