@@ -4,8 +4,8 @@ body {
 }
 .cent
 {
-  position: relative;
-  font-size:7vmax;
+  position: absolute;
+  font-size:7.5vmin;
   text-align:center;
   margin:5vmax;
 }
