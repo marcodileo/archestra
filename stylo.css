@@ -4,7 +4,7 @@ body {
 }
 .cent
 {
-  position: absolute;
+  position: relative;
   font-size:7.5vmin;
   text-align:center;
   margin:5vmax;
