@@ -13,36 +13,35 @@
 <link rel="stylesheet" href="/stylo.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css">
 </head>
 <!-- Body -->
 <body>
 <div class="container">
   <h1>ARCHESTRA.<font color="red">x</font><font color="green">y</font><font color="blue">z</font></h1>
 
-  <div class="slider">
-    <h3>Design</h3>
-    <h3>Energy</h3>
-    <h3>Urbanism</h3>
-    <h3>Virtual Reality</h3>
-    <h3>Music</h3>
-    <h3>Technology</h3>
-    <h3>Buildings</h3>
-    <h3>Marketing</h3>
-    <h3>3D Scanning</h3>
+    <div class="slider">
+    <h2><span class="typed"></span></h2>
   </div>
 </div>
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js"></script>
   <script>
-    $('.slider').slick({
-      vertical: true,
-      autoplay: true,
-      autoplaySpeed: 2400,
-      speed: 240
-    });
+    $(".typed").typed({
+  strings: [
+            "Design",
+            "Urbanism",
+            "Energy",
+            "Virtual Reality",
+            "Music",
+            "Technology",
+            "Buildings",
+            "Marketing",
+            "3D Scanning"
+           ],
+  typeSpeed: 0,
+  backDelay: 3000,
+});
   </script>
   
 <!-- Footer -->
