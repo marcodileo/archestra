@@ -16,21 +16,63 @@ h1 {
   margin-bottom: 2.5rem;
 }
 h2 {
-  font-size: 5rem;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
+  font-size: 6.0vmin;
+  font-weight: 300;
   margin-bottom: 1rem;
 }
 h3 {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 6.0vmin;
-  font-weight: 300;
+  font-size: 1.5rem;
   line-height: 3rem;
 }
+
 .container {
-  margin: auto;
   margin-top: 3rem;
   text-align: center;
 }
 
+.typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.8s infinite;
+  -moz-animation: blink 0.8s infinite;
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
 
 a:link {
