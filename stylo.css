@@ -13,12 +13,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 9.5vmin;
+  user-select: none;
   margin: 3rem;
 }
 h2 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 6.0vmin;
   font-weight: 300;
+  user-select: none;
   margin-bottom: 1rem;
 }
 h3 {
@@ -88,6 +90,7 @@ a:visited {
   }
 .fa {
 padding: 0.5rem;
+user-select: none;
   }
 
 .w3-margin{margin:5vh}
