@@ -168,3 +168,12 @@ user-select: none;
 .w3-padding-auto{padding:5vw}
 .w3-center{text-align:center}
 .w3-margin{margin:16px}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
