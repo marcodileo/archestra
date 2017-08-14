@@ -85,7 +85,7 @@ h3 {
   .pulse {
     position: absolute;
     left:50%;
-    top: 45%;
+    top: 50vmin;
     margin-left:-15vmin;    
     width: 30vmin;
     height: 30vmin;
