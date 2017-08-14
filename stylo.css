@@ -86,8 +86,8 @@ h3 {
     position: absolute;
     top: 0;
     left: 0;    
-    width: 6vmax;
-    height: 6vmax;
+    width: 8vmax;
+    height: 8vmax;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%; 
