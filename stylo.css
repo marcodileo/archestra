@@ -97,7 +97,7 @@ h3 {
     box-sizing: border-box;
   }
   .pulse0 {
-    transform: scale(.3);
+    transform: scale(.2);
     background: #000;
   }
   .pulse1 {
