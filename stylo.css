@@ -99,6 +99,7 @@ h3 {
   .pulse0 {
     transform: scale(.25);
     background: #000;
+    z-index: 3;
   }
   .pulse1 {
     border: 0.5rem solid #000;
