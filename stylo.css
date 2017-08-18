@@ -156,11 +156,11 @@ a:visited {
   text-decoration: none;
 }
 .fa:hover {
-    opacity: 0.7;
+    opacity: 0.8;
   }
 .fa {
-padding: 0.5rem;
-user-select: none;
+  padding: 0.5rem;
+  opacity: 0.5;
   }
 
 .w3-margin{margin:5vh}
