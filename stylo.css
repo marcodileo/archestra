@@ -21,13 +21,12 @@ h2 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 3.5vmin;
   font-weight: 300;
-  margin-bottom: 0.5vmin;
+  margin-bottom: 1em;
 }
 h3 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 4.0vmin;
   font-weight: 300;
-  margin-bottom: 1rem;
   line-height: 3rem;
 }
 
