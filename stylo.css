@@ -80,10 +80,10 @@ h3 {
   .pulse {
     position: absolute;
     left:50%;
-    top: 37.5vh;
-    margin-left:-17.5vmin;    
-    width: 35vmin;
-    height: 35vmin;
+    top: 30vh;
+    margin-left:-15vmax;    
+    width: 30vmax;
+    height: 30vmax;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%; 
