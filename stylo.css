@@ -153,11 +153,11 @@ a:visited {
   text-decoration: none;
 }
 .fa:hover {
-    color: black;
+    opacity: 0.85;
   }
 .fa {
   padding: 0.5rem;
-  color: gray;
+  opacity: 0.6;
   }
 
 .social{
