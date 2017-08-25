@@ -81,6 +81,7 @@ h3 {
   }
   .pulse {
     position: absolute;
+    cursor:pointer;
     top: 35vh;
     left:50%;
     margin-left:-20vh;    
