@@ -30,7 +30,6 @@ h3 {
 .container {
   text-align: center;
   margin-top: 7vmin;
-  cursor: default;
 }
 
 .typed-cursor {
@@ -94,8 +93,7 @@ h3 {
     box-sizing: border-box;
   }
   .pulse0 {
-    transform: scale(.27);
-    cursor:pointer;
+    transform: scale(.30);
     background: #000;
     z-index: 3;
   }
@@ -161,16 +159,15 @@ a:visited {
   opacity: 0.6;
   }
 
-.social{
-  text-align:center;
-  font-size:24px;
-  padding-top:32px;
-  padding-bottom:32px
-}
+.w3-margin{margin:5vh}
+.w3-xlarge{font-size:24px}
+.w3-padding-32{padding-top:32px;padding-bottom:32px}
+.w3-padding-auto{padding:5vw}
+.w3-center{text-align:center}
+.w3-margin{margin:16px}
 
-#footer {
+.footer {
   position: absolute;
-  display:none;
   right: 0;
   bottom: 0;
   left: 0;
