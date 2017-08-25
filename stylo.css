@@ -13,12 +13,12 @@ h2, h3 {
   margin-top: 0;
 }
 h1 {
-  font-size: 9.5vmin;
+  font-size: 10vmin;
   margin: 4vmin;
 }
 h2 {
   font-size: 3.5vh;
-  margin-bottom: 0.5vh;
+  margin: 0.5vh;
   color: gray;
 }
 h3 {
