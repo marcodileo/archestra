@@ -49,22 +49,31 @@
 });
   </script>
 <!-- Director -->
-  <a href="https://m.me/archestra.xyz">
-    <div class="pulse pulse0"></div>
-    <a>
+<script>
+  function myFunction() {
+    var x = document.getElementById('footer');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+<div onclick="myFunction()">
+  <div class="pulse pulse0"></div>
   <div class="pulse pulse1"></div>
   <div class="pulse pulse2"></div>
-      
+</div>      
 <!-- Footer -->
-<div class=footer>
-    <footer class="social">
+<div id=footer>
+   <footer class="social">
     <a href="mailto:archestraxyz@gmail.com?Subject=Hello from the web" class="fa fa-envelope-o"></a>
     <a href="https://m.me/archestra.xyz"<img src="/Icons/Messenger.svg" width="24px"></a>
     <a href="https://www.facebook.com/archestra.xyz/" class="fa fa-facebook-official"></a>
     <a href="https://www.instagram.com/archestra.xyz/" class="fa fa-instagram"></a>
     <a href="https://twitter.com/archestraxyz" class="fa fa-twitter"></a>
-</footer>
-  </div>
+   </footer>
+</div>
 <!-- Google Analytics -->
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
