@@ -104,7 +104,7 @@ h3 {
     -moz-animation: pulse1 4s linear infinite;
     animation: pulse1 4s linear infinite;    
   }
-.pulse2 {
+  .pulse2 {
     border: 0.5rem solid #000;
     -webkit-animation: pulse2 4s linear infinite;
     -moz-animation: pulse2 4s linear infinite;
