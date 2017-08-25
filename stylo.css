@@ -76,14 +76,14 @@ h3 {
   }
 }
 /* Director */
-  .pulser {
+  #pulser {
     position: relative;
+    left:50%;
+    margin-left:-20vh;
+    top:-5vh
   }
   .pulse {
-    position: absolute;
-    top: 35vh;
-    left:50%;
-    margin-left:-20vh;    
+    position: absolute;    
     width: 40vh;
     height: 40vh;
     -webkit-border-radius: 50%;
