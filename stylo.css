@@ -17,13 +17,13 @@ h1 {
   margin: 4vmin;
 }
 h2 {
-  font-size: 3.5vh;
-  margin: 0.5vh;
+  font-size: 3.5vmax;
+  margin: 0.5vmax;
   color: gray;
 }
 h3 {
-  font-size: 4.0vh;
-  line-height: 9vh;
+  font-size: 4.0vmax;
+  line-height: 9vmax;
 }
 
 .container {
@@ -79,6 +79,7 @@ h3 {
   }
   .pulse {
     position: absolute;
+    top:50vmax;
     left:50%;
     margin-left:-20vh;    
     width: 40vh;
