@@ -94,7 +94,7 @@ h3 {
     box-sizing: border-box;
   }
   .pulse0 {
-    transform: scale(.30);
+    transform: scale(.27);
     cursor:pointer;
     background: #000;
     z-index: 3;
