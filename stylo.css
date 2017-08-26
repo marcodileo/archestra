@@ -78,9 +78,9 @@ h3 {
 /* Director */
   .pulse {
     position: absolute;
-    left:50%;
-    margin-left:-20vh;
     top: 35vh;
+    left:50%;
+    margin-left:-20vh;    
     width: 40vh;
     height: 40vh;
     -webkit-border-radius: 50%;
