@@ -76,6 +76,11 @@ h3 {
   }
 }
 /* Director */
+@media screen and (max-height: 300px) {
+    .pulse {
+        display: none !important;
+    }
+}
   .pulse {
     position: absolute;
     top: 35vh;
@@ -94,6 +99,7 @@ h3 {
     transform: scale(.27);
     background: #000;
     z-index: 3;
+    cursor: pointer;
   }
   .pulse1 {
     border: 0.5rem solid #000;
@@ -162,6 +168,17 @@ a:visited {
   font-size:24px;
   padding-top:32px;
   padding-bottom:32px;
+}
+
+#demo {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
+  font-weight: 300;
+  font-size: 3vh;
+  margin:0.5vh;
+  display: none;
+  color: gray;
+  text-align: center;
+  cursor: default;
 }
 
 .footer {
