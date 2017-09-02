@@ -21,6 +21,7 @@ h2 {
   font-size: 3.5vh;
   margin: 0.5vh;
   color: gray;
+  line-height: 140%;
 }
 h3 {
   font-size: 4.0vh;
@@ -170,5 +171,8 @@ a:visited {
   bottom: 0;
   left: 0;
   padding: 1rem;
+  text-align: center;
+}
+.footer2 {
   text-align: center;
 }
