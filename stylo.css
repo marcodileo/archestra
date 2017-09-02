@@ -1,6 +1,6 @@
 body {
   background: #fafafa;
-  font-family: 'Nunito', sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 2rem;
   overflow: hidden;
   -webkit-user-select: none; /* Chrome, Opera, Safari */
@@ -9,11 +9,11 @@ body {
 }
 
 h2, h3 {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
   font-weight: 300;
   margin-top: 0;
 }
 h1 {
+  font-family: 'Nunito', sans-serif;
   font-size: 10vmin;
   margin: 4vmin;
 }
@@ -175,4 +175,27 @@ a:visited {
 }
 .footer2 {
   text-align: center;
+}
+.does {
+  font-size:0.5em;
+  text-align: center;
+  line-height: 140%;
+  font-weight: 300;
+  margin-top: 0;
+  color: gray;
+}
+.does2 {
+  font-size:0.5em;
+  text-align: center;
+  line-height: 140%;
+  font-weight: 300;
+  margin-top: 0;
+  color: gray;
+}
+
+@media screen and (max-width: 580px) {
+    .does {
+        text-align: left;
+        margin-left: 25%;
+    }
 }
