@@ -17,13 +17,13 @@ h1 {
   margin: 4vmin;
 }
 h2 {
-  font-size: 3.5vh;
+  font-size: 0.8em;
   margin: 0.5vh;
   color: gray;
   line-height: 140%;
 }
 h3 {
-  font-size: 4.0vh;
+  font-size: 0.9em;
 }
 
 .container {
