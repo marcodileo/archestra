@@ -27,7 +27,7 @@ h2, h3 {
 h2 {
   font-size: 1.5em;
   color: gray;
-  line-height: 140%;
+  line-height: 160%;
 }
 h3 {
   font-size: 2em;
@@ -84,7 +84,7 @@ h3 {
 }
   .pulse {
     position: absolute;
-    top: 35vh;
+    top: 37vh;
     left:50%;
     margin-left:-20vh;    
     width: 40vh;
