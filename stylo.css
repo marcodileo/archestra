@@ -194,3 +194,7 @@ a:visited {
     h3 {
   font-size: 4vh;
 }
+@media screen and (max-height: 380px) {
+  .pulse {
+        display: none;
+    }
