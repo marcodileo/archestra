@@ -87,7 +87,7 @@ h4 {
 }
   .pulse {
     position: absolute;
-    top: 37vh;
+    top: 40%;
     left:50%;
     margin-left:-20vh;    
     width: 40vh;
