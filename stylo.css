@@ -196,4 +196,9 @@ a:visited {
         text-align: left;
         margin-left: 15%;
     }
+    h2 {
+  font-size: 3.5vh;
+}
+    h3 {
+  font-size: 4vh;
 }
