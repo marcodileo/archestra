@@ -77,6 +77,11 @@ h3 {
   }
 }
 /* Director */
+@media screen and (max-height: 300px) {
+    .pulse {
+        display: none !important;
+    }
+}
   .pulse {
     position: absolute;
     top: 35vh;
@@ -194,9 +199,4 @@ a:visited {
 }
     h3 {
   font-size: 4vh;
-}
-@media screen and (max-height: 300px) {
-    .pulse {
-        display: none !important;
-    }
 }
