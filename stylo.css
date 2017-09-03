@@ -7,16 +7,23 @@ body {
   -moz-user-select: none; /* Firefox 2+ */
   -ms-user-select: none; /* IE 10+ */
 }
-
-h2, h3 {
-  font-weight: 300;
+.container {
+  text-align: center;
+  margin-top: 15vh;
+  cursor: default;
 }
+
 h1 {
   font-family: 'Nunito', sans-serif;
   font-size: 6vmax;
   margin: 4vmin;
   margin-bottom: 0;
 }
+
+h2, h3 {
+  font-weight: 300;
+}
+
 h2 {
   font-size: 1.5em;
   color: gray;
@@ -25,12 +32,6 @@ h2 {
 h3 {
   font-size: 2em;
   margin:1rem;
-}
-
-.container {
-  text-align: center;
-  margin-top: 7vmin;
-  cursor: default;
 }
 
 .typed-cursor {
