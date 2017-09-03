@@ -1,5 +1,6 @@
 body {
   background: #fafafa;
+  text-align: center;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 1rem;
   overflow: hidden;
@@ -8,7 +9,6 @@ body {
   -ms-user-select: none; /* IE 10+ */
 }
 .container {
-  text-align: center;
   margin-top: 7vh;
   cursor: default;
 }
@@ -168,7 +168,6 @@ a:visited {
   }
 
 .social{
-  text-align:center;
   font-size:1.5rem;
   padding-top:1.5rem;
   padding-bottom:2rem;
@@ -179,13 +178,11 @@ a:visited {
   right: 0;
   bottom: 0;
   left: 0;
-  text-align: center;
 }
 .footer2 {
   text-align: center;
 }
 .does {
-  text-align: center;
   line-height: 160%;
   font-weight: 300;
   margin-top: 0;
