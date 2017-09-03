@@ -1,7 +1,7 @@
 body {
   background: #fafafa;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   overflow: hidden;
   -webkit-user-select: none; /* Chrome, Opera, Safari */
   -moz-user-select: none; /* Firefox 2+ */
@@ -160,8 +160,8 @@ a:visited {
 .social{
   text-align:center;
   font-size:24px;
-  padding-top:32px;
-  padding-bottom:32px;
+  padding-top:1rem;
+  padding-bottom:1rem;
 }
 
 .footer {
@@ -176,7 +176,6 @@ a:visited {
   text-align: center;
 }
 .does {
-  font-size:1rem;
   text-align: center;
   line-height: 140%;
   font-weight: 300;
@@ -184,7 +183,6 @@ a:visited {
   color: gray;
 }
 .does2 {
-  font-size:1rem;
   text-align: center;
   line-height: 140%;
   font-weight: 300;
