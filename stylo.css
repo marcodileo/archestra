@@ -77,7 +77,7 @@ h3 {
   }
 }
 /* Director */
-@media screen and (max-height: 300px) {
+@media screen and (max-height: 375px) {
     .pulse {
         display: none !important;
     }
