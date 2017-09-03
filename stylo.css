@@ -182,16 +182,9 @@ a:visited {
   margin-top: 0;
   color: gray;
 }
-.does2 {
-  text-align: center;
-  line-height: 140%;
-  font-weight: 300;
-  margin-top: 0;
-  color: gray;
-}
 
 @media screen and (max-width: 375px) {
-  .does {
+  .does2 {
         text-align: left;
         margin-left: 15%;
     }
