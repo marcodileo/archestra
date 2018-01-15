@@ -206,6 +206,9 @@ a:hover {
 .fas, .fab {
   padding: 0.5rem;
   }
+.fas:hover, .fab:hover {
+  color: black;
+  }
 
 .social{
   font-size:1.5rem;
