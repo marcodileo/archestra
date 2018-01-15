@@ -22,12 +22,11 @@
 .overlay a {
     padding: 8px;
     text-decoration: none;
-    color: black;
     display: block;
     transition: 0.3s;
 }
 .overlay a:hover, .overlay a:focus {
-    color: gray;
+    color: black;
 }
 .overlay .closebtn {
     font-size: 60px;
@@ -35,7 +34,6 @@
 
 @media screen and (max-height: 450px) {
   .overlay {overflow-y: auto;}
-  .overlay a {font-size: 20px}
   .overlay .closebtn {
     font-size: 40px;}
  }
