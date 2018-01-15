@@ -193,20 +193,18 @@ h4 {
   }
 /* End-Director */
 a:link {
-  color: black;
+  color: gray;
   text-decoration: none;
 }
 a:visited {
-    color: black;
+    color: gray;
   text-decoration: none;
 }
-.fas:hover, .fab:hover {
+.a:hover {
     color: black;
-    opacity: 1;
   }
 .fas, .fab {
   padding: 0.5rem;
-  opacity: 0.4;
   }
 
 .social{
