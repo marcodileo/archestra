@@ -11,7 +11,7 @@
     border: 1px solid #ccc;
     height: 150px;
 }
-.service:hover .overlay {
+.service:hover .activ {
   bottom: 0;
   height: 100%;
 }
