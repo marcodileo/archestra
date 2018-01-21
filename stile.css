@@ -293,7 +293,7 @@ a:visited {
   z-index: 2;
 }
 .footer2 {
-  text-align: center;
+  clear: both;
 }
 .does {
   line-height: 160%;
