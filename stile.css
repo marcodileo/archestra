@@ -6,7 +6,7 @@
     float: left;
     width: 24.99999%;
 }
-.container {
+.textcontainer {
   position: relative;
   width: 100%;
 }
@@ -20,12 +20,15 @@
 }
 
 .desc {
-	width: 100%;
-	position:relative;top:25%;
-	padding: 15px;
-    	font-size:2rem;
-    	text-align: center;
-	color:gray;
+    width: 100%;
+	  position:relative;top:25%;
+    padding: 15px;
+    font-size:2rem;
+    text-align: center;
+    color:gray;
+}
+.desc:hover {
+    color:black;
 }
 
 * {
@@ -114,7 +117,7 @@ body {
 }
 .container {
   margin-top: 7vh;
-  cursor: default;
+  cursor: pointer;
 }
 
 h1 {
