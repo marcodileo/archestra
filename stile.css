@@ -11,7 +11,7 @@
   width: 100%;
 }
 .service {
-    border: 1px solid #ccc;
+    border: none;
     height: 150px;
 }
 .service:hover .activ {
@@ -21,8 +21,9 @@
 
 .desc {
     width: 100%;
-	position:relative;top:30%;
+	  position:relative;top:25%;
     padding: 15px;
+    font-size:2rem;
     text-align: center;
 }
 
