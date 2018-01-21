@@ -20,11 +20,12 @@
 }
 
 .desc {
-    width: 100%;
-	  position:relative;top:25%;
-    padding: 15px;
-    font-size:2rem;
-    text-align: center;
+	width: 100%;
+	position:relative;top:25%;
+	padding: 15px;
+    	font-size:2rem;
+    	text-align: center;
+	color:gray;
 }
 
 * {
