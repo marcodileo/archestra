@@ -45,10 +45,7 @@
   color: gray;
   line-height:1.6;
   font-size: 1rem;
-  position: absolute;
   top: 12%;
-  left: 12%;
-  text-align: left;
 }
 
 @media only screen and (max-width: 700px){
@@ -292,7 +289,6 @@ a:visited {
   z-index: 2;
 }
 .footer2 {
-  position:relative;
   text-align: center;
 }
 .does {
