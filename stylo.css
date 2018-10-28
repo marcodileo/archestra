@@ -2,7 +2,7 @@ body {
   background: #fafafa;
   text-align: center;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", sans-serif;
-  font-size: 1em;
+  font-size: 14px;
   overflow: hidden;
   -webkit-user-select: none; /* Chrome, Opera, Safari */
   -moz-user-select: none; /* Firefox 2+ */
