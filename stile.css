@@ -189,6 +189,9 @@ h4 {
   }
 }
 /* Director */
+.director {
+        position: relative;
+    }
 @media screen and (max-height: 375px) {
     .pulse {
         display: none !important;
