@@ -191,12 +191,15 @@ h4 {
     100% { -webkit-transform: scale(.6); opacity: 0; }
   }
 /* End-Director */
+a:hover {
+  color: black;
+}
 a:link {
-    color: black;
+  color: gray;
   text-decoration: none;
 }
 a:visited {
-    color: black;
+    color: gray;
   text-decoration: none;
 }
 .fas:hover, .fab:hover {
