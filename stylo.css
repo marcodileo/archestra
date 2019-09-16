@@ -259,13 +259,13 @@ h2 {
   color: gray;
 }
 .pulse0 {
-    background: gray;
+    background: white;
   }
 .pulse1 {
-    border: 0.5rem solid gray; 
+    border: 0.5rem solid white; 
   }
 .pulse2 {
-    border: 0.5rem solid gray; 
+    border: 0.5rem solid white; 
   }
 a:hover {
   color: white;
