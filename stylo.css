@@ -244,3 +244,39 @@ a:visited {
   font-size: 1.6em;
 }
 }
+@media (prefers-color-scheme: dark) {
+  body {
+  background: black;
+    color: white;
+    }
+  .overlay {
+    background-color: #1c1c1c;
+}
+.overlay a:hover, .overlay a:focus {
+    color: white;
+}
+h2 {
+  color: gray;
+}
+.pulse0 {
+    background: gray;
+  }
+.pulse1 {
+    border: 0.5rem solid gray; 
+  }
+.pulse2 {
+    border: 0.5rem solid gray; 
+  }
+a:hover {
+  color: white;
+}
+a:link {
+  color: white;
+}
+a:visited {
+    color: white;
+}
+.does {
+  color: gray;
+}
+}
