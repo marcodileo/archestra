@@ -60,6 +60,10 @@ h1 {
   font-weight: normal;
 }
 
+h1 a:link, h1 a:visited, h1 a:hover, {
+    color: black;
+}
+
 h2, h3, h4 {
   font-weight: 300;
 }
