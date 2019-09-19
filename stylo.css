@@ -198,12 +198,8 @@ h4 {
 a:hover {
   color: black;
 }
-a:link {
+a:link, a:visited {
   color: gray;
-  text-decoration: none;
-}
-a:visited {
-    color: gray;
   text-decoration: none;
 }
 .fas:hover, .fab:hover {
