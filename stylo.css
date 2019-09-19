@@ -261,20 +261,11 @@ h2 {
 .pulse0 {
     background: white;
   }
-.pulse1 {
+.pulse1, .pulse2 {
     border: 0.5rem solid white; 
   }
-.pulse2 {
-    border: 0.5rem solid white; 
-  }
-a:hover {
+a:link, a:hover, a:visited {
   color: white;
-}
-a:link {
-  color: white;
-}
-a:visited {
-    color: white;
 }
 .does {
   color: gray;
