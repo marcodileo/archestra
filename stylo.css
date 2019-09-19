@@ -264,6 +264,9 @@ h2 {
 .pulse1, .pulse2 {
     border: 0.5rem solid white; 
   }
+h1 a:link, h1 a:visited, h1 a:hover {
+    color: white;
+}
 a:link, a:hover, a:visited {
   color: white;
 }
